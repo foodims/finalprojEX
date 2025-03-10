@@ -1,0 +1,5 @@
+ROOT=.
+DEVICE_ID[/home/studio/workspace/example_8-5]=066DFF555187534867160842
+DEVICE_TYPE[/home/studio/workspace/example_8-5]=connected
+TARGET=NUCLEO_F429ZI
+TARGET_CODE=0796
